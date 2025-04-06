@@ -1,10 +1,9 @@
 {
-	"Id": "dv-improved-job-overview",
+	"Id": "dv-krs-betterjobs",
 	"Version": "0.1.1",
-	"DisplayName": "Improved Job Overview",
-	"Author": "MisfitMaid",
-	"EntryMethod": "ImprovedJobOverview.ImprovedJobOverview.Load",
+	"DisplayName": "Better Jobs",
+	"Author": "MisfitMaid+KRS",
+	"EntryMethod": "KRS.BetterJobs.Main.Load",
 	"ManagerVersion": "0.27.3",
-	"AssemblyName": "ImprovedJobOverview.dll",
-	"Repository": "https://raw.githubusercontent.com/MisfitMaid/dv-improved-job-overview/mistress/repository.json"
+	"AssemblyName": "KRS.BetterJobs.dll"
 }
